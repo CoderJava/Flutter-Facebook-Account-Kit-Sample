@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Flutter Facebook Account Kit</string>
+    <string name="facebook_app_id">716793765458337</string>
+    <string name="fb_login_protocol_scheme">fb716793765458337</string>
+</resources>
